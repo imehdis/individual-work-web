@@ -1,0 +1,33 @@
+        .image img {
+            width: 200px;
+            height: 200px;
+        }
+        .description h2 {
+            font-size: 1.2em;
+            color: #8D8D8D;
+        }
+        .description h1 {
+            font-size: 2em;
+            margin-bottom: 0.5em;
+        }
+        .description p {
+            font-size: 1.1em;
+            color: #555;
+        }
+        .button button {
+            background-color: #2D3748;
+            color: white;
+            border: none;
+            padding: 0.8em 1.5em;
+            font-size: 1.1em;
+            cursor: pointer;
+        }
+        .old-price {
+            text-decoration: line-through;
+            color: #8D8D8D;
+        }
+        .new-price {
+            color: #3fbd5a;
+            font-weight: bold;
+            font-size: 20px;
+        }
